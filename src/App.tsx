@@ -1,3 +1,4 @@
+import '@silevis/reactgrid/styles.css';
 import {Column, ReactGrid, Row} from "@silevis/reactgrid";
 
 const columns: Column[] = [
